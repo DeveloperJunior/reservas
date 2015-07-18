@@ -1,0 +1,16 @@
+.btn {
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+}
+footer {
+    padding: 10px;
+    color: #fff;
+    font-size: 12px;
+    background-color: black;
+}
+
+    footer a, footer a:hover {
+        color: #fff;
+        text-decoration: none;
+    }
